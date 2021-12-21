@@ -1,6 +1,6 @@
 {
   "name": "@worktools/flex-styles",
-  "version": "0.2.1",
+  "version": "0.2.2-a1",
   "description": "Flexbox related styles for common layouts",
   "main": "./lib/index.js",
   "typings": "./lib/index.d.ts",
@@ -24,10 +24,10 @@
   },
   "homepage": "https://github.com/worktools/flex-styles#readme",
   "devDependencies": {
-    "@emotion/css": "*",
-    "@types/react": "^17.0.5",
+    "@emotion/css": "11.7.1",
+    "@types/react": "^17.0.37",
     "react": "^17.0.2",
-    "typescript": "^4.2.4"
+    "typescript": "^4.5.4"
   },
   "peerDependencies": {
     "@emotion/css": "*",
