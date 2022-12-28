@@ -1,6 +1,6 @@
 {
   "name": "@worktools/flex-styles",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Flexbox related styles for common layouts",
   "main": "./lib/index.js",
   "typings": "./lib/index.d.ts",
@@ -28,9 +28,5 @@
     "@types/react": "^18.0.26",
     "react": "^18.2.0",
     "typescript": "^4.9.4"
-  },
-  "peerDependencies": {
-    "@emotion/css": "*",
-    "react": "*"
   }
 }
